@@ -4,7 +4,7 @@ A suspenseful 2-player Russian Roulette game featuring cute cats. Take turns pul
 
 ## 🎮 Demo
 
-![Gameplay Demo](demo/gameplay-demo.mp4)
+![Gameplay Demo](https://github.com/poojasngh432/cat-russian-roulette/blob/main/demo/game-demo.mov)
 
 *Watch the cats face off in this nerve-wracking game of chance!*
 
@@ -69,5 +69,6 @@ MIT License - Feel free to fork and modify!
 ---
 
 *Made with 💖 for cat lovers and thrill seekers*
+
 
 
