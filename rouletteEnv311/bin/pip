@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/poojasingh/VSCode/GameProject1/Sample Applications/SlidePuzzleDemo/rouletteEnv311/bin/python3.11" "$0" "$@"
-' '''
+#!/Users/poojasingh/VSCode/CatRussianRouletteGame/rouletteEnv311/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
