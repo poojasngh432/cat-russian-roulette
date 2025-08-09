@@ -10,7 +10,7 @@ A suspenseful 2-player Russian Roulette game featuring cute cats. Take turns pul
 
 ## 🕹️ How to Play
 
-- **Player 1 (Smol Cat)**🎀 and **Player 2 (Evil Cat)**😼 take turns
+- **Player 1 (Smol Cat)** 🎀 and **Player 2 (Evil Cat)** 😼 take turns
 - Press **SPACEBAR** to pull the trigger
 - One random chamber (1-6) contains the bullet
 - The unlucky cat gets eliminated with a dramatic explosion! 💥
@@ -92,6 +92,7 @@ MIT License - Feel free to fork and modify!
 ---
 
 *Made with 💖 for cat lovers and thrill seekers*
+
 
 
 
